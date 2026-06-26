@@ -75,16 +75,8 @@
 
 <div align="center">
 
-Watch **Pac-Man** eat and **Galaga** blast my contributions 👇
+Watch  **Galaga** blast my contributions 👇
 
-<!-- pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JavaLyHn/JavaLyHn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JavaLyHn/JavaLyHn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JavaLyHn/JavaLyHn/output/pacman-contribution-graph.svg">
-</picture>
-
-<br/>
 
 <!-- galaga -->
 <picture>
@@ -100,8 +92,8 @@ Watch **Pac-Man** eat and **Galaga** blast my contributions 👇
 ## 📫 Connect
 
 <!-- TODO: 填上你的联系方式,删掉不需要的 -->
-- 📧 Email: `<your-email>`
-- 🌐 Blog / Site: `<your-link>`
+- 📧 Email: `javalyhn@163.com`
+- 🌐 Blog / Site: ``
 
 <div align="center">
 
