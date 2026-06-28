@@ -15,16 +15,10 @@
 <!-- TODO: 按需修改下面的介绍文案 -->
 - 🔭 I'm currently building **enterprise-grade AI Agent & RAG systems**
 - 🤖 Focused on **multi-agent orchestration**, **LLM tooling**, and **backend infrastructure**
-- 🛠️ Selected work:
-  - **[DeepDimension](https://github.com/JavaLyHn/DeepDimension)** — enterprise AI knowledge base with retrieval-augmented generation
-  - **[IntelligentAgent](https://github.com/JavaLyHn/IntelligentAgent)** — visual AI Agent workflow orchestration (LLM + TTS nodes)
-  - **[IntelligentFlow](https://github.com/JavaLyHn/IntelligentFlow)** — enterprise AI Agent workflow platform on microservices
-  - **[StreamlineDB](https://github.com/JavaLyHn/StreamlineDB)** — a lightweight MySQL-like relational database written in C
 - 📍 Based in **Beijing, China**
 - 🎯 Motto: *To be best*
 
----
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -37,7 +31,7 @@
 <img src="https://streak-stats.demolab.com/?user=JavaLyHn&theme=tokyonight&hide_border=true" alt="streak stats" />
 
 </div>
-
+-->
 ---
 
 ## 🕹️ Arcade Contribution Graph
