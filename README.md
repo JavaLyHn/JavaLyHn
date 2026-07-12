@@ -18,7 +18,7 @@
 - 📍 Based in **Beijing, China**
 - 🎯 Motto: *To be best*
 
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -31,7 +31,6 @@
 <img src="https://streak-stats.demolab.com/?user=JavaLyHn&theme=tokyonight&hide_border=true" alt="streak stats" />
 
 </div>
--->
 ---
 
 ## 🕹️ Arcade Contribution Graph
