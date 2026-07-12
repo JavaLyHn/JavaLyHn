@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JavaLyHn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaLyHn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
@@ -30,7 +30,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=JavaLyHn&theme=tokyonight&hide_border=true" alt="streak stats" />
 
-</div>
+</div> -->
 ---
 
 ## 🕹️ Arcade Contribution Graph
