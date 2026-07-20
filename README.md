@@ -52,7 +52,7 @@
 
 <!-- TODO: 填上你的联系方式,删掉不需要的 -->
 - 📧 Email: `javalyhn@163.com`
-- 🌐 Blog / Site: `https://lyhn.vercel.app` 
+- 🌐 Blog / Site: https://lyhn.vercel.app
 
 <div align="center">
 
