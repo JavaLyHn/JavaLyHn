@@ -19,18 +19,18 @@
 - 🎯 Motto: *To be best*
 
 
-## 📊 GitHub Stats
+---
 
-<!-- <div align="center">
+## 🤖 AI Token Usage · [Tokscale](https://tokscale.ai/u/JavaLyHn)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JavaLyHn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaLyHn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
+<div align="center">
 
-<br/>
+<a href="https://tokscale.ai/u/JavaLyHn">
+  <img src="https://tokscale.ai/api/embed/JavaLyHn/svg?view=3d&tokens=compact&cost=compact" alt="Tokscale Stats" />
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=JavaLyHn&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
 
-</div> -->
 ---
 
 ## 🕹️ Arcade Contribution Graph
